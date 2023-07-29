@@ -7,4 +7,6 @@ updates coming sooon.....
 int c = a+b;
 
 3)multiplication
+
+rff-rf---r--
 int c= a*b ####this is to demonstrate git rebase
