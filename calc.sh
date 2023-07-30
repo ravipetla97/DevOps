@@ -19,3 +19,6 @@ int c= a*b ####this is to demonstrate git rebase
 
 int c =a-b### merging
 >>>>>>> b9807ae ( sub  feature got added)
+
+4)division
+int c=a/b
